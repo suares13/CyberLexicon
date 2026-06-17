@@ -72,10 +72,10 @@ Cada estudo documentado aqui obedece a um ritual rígido de dissecação:
 
 <br><br>
 
+<!-- Rodapé Reordenado -->
 <div align="center">
+  <p>Semeado, cultivado e documentado por <a href="https://github.com/suares13">@suares13</a></p>
+  <br>
   <!-- Imagem da Base (Paisagem Red Team) -->
   <img src="raizes-servidor.png" alt="Raízes Servidor - Paisagem" width="100%"/>
-  
-  <br><br>
-  <p>Semeado, cultivado e documentado por <a href="https://github.com/suares13">@suares13</a></p>
 </div>
